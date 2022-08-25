@@ -9,3 +9,8 @@ Habilidades
 Intereses
 - Contruir sitios Web y Aplicaciones
 - Trabajar en entorno agiles
+
+## Pasatiempos
+- Escuchar Musica
+- Bailar
+- Estudiar Ingles
