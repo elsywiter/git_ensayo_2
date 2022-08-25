@@ -4,4 +4,8 @@ Trabajadora en Microsistem
 
 Habilidades
 - Linux
-Git y Git Hub
+- Git y Git Hub
+
+Intereses
+- Contruir sitios Web y Aplicaciones
+- Trabajar en entorno agiles
